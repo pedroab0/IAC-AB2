@@ -5,11 +5,11 @@
 * Discente 1
 	* Nome: Pedro de Almeida Barbosa
 	* Matrícula: 18211819 
-	* Distribuição da nota (%): 100
+	* Distribuição da nota (%): 70
 * Discente 2
 	* Nome: Anna Vitória Soares Queiroz Vasconcelos
 	* Matrícula: 18211737
-	* Distribuição da nota (%): 
+	* Distribuição da nota (%): 30
 * Não encontramos outro discente para participar e contribuir com nossa equipe. Procuramos até o dia 20/02/2018.		
 	
 # Resultados
