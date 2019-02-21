@@ -27,7 +27,8 @@ TODO: explicar se o comportamento da curva **UCP** foi o esperado, sempre justif
 
 TODO: explicar se o comportamento da curva **UCP-MEM** foi o esperado, sempre justificando sua resposta, referenciando o código fonte do programa e o gráfico do experimento realizado.
 
-## Referências usadas na pesquisa e elaboração do projeto
+## Referências bibliográficas usadas na pesquisa e elaboração do projeto
+Todos as páginas foram essenciais para elaboração do projeto e seus autores estão referenciados nas páginas abaixo.
 
 * http://linguagemc.com.br/argumentos-em-linha-de-comando/
 * https://www.clubedohardware.com.br/forums/topic/355748-como-usar-a-fun%C3%A7%C3%A3o-clock/
@@ -39,6 +40,7 @@ TODO: explicar se o comportamento da curva **UCP-MEM** foi o esperado, sempre ju
 * http://www.cplusplus.com/forum/beginner/30792/
 * http://www.cplusplus.com/forum/general/85017/
 * https://www.programacaoprogressiva.net/2014/09/A-Chamada-de-Sistema-fork-Como-Criar-e-Gerenciar-Processos.html
+* https://gist.github.com/leticia16/3a10f50102b3386180bf1a6daf8eff45
 * https://stackoverflow.com/questions/10321435/is-char-envp-as-a-third-argument-to-main-portable
 * https://ubuntuforums.org/showthread.php?t=1430052
 * https://stackoverflow.com/questions/14393762/executing-bash-command-and-getting-the-output-in-c
