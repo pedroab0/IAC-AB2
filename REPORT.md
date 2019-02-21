@@ -17,7 +17,7 @@
 	
 # Resultados
 
-(https://github.com/pedrobarbosa0/IAC-AB2/blob/master/graph%20(1).png)
+![](https://github.com/pedrobarbosa0/IAC-AB2/blob/master/graph%20(1).png)
 
 
 # Discussão
