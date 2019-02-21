@@ -7,13 +7,10 @@
 	* Matrícula: 18211819 
 	* Distribuição da nota (%): 100
 * Discente 2
-	* Nome: TODO
-	* Matrícula: TODO
-	* Distribuição da nota (%): TODO
-* Discente 3
-	* Nome: TODO
-	* Matrícula: TODO
-	* Distribuição da nota (%): TODO		
+	* Nome: Anna Vitória Soares Queiroz Vasconcelos
+	* Matrícula: 18211737
+	* Distribuição da nota (%): 
+* Não encontramos outro discente para participar e contribuir com nossa equipe. Procuramos até o dia 20/02/2018.		
 	
 # Resultados
 
@@ -43,4 +40,6 @@ TODO: explicar se o comportamento da curva **UCP-MEM** foi o esperado, sempre ju
 * http://www.cplusplus.com/forum/general/85017/
 * https://www.programacaoprogressiva.net/2014/09/A-Chamada-de-Sistema-fork-Como-Criar-e-Gerenciar-Processos.html
 * https://stackoverflow.com/questions/10321435/is-char-envp-as-a-third-argument-to-main-portable
+* https://ubuntuforums.org/showthread.php?t=1430052
+* https://stackoverflow.com/questions/14393762/executing-bash-command-and-getting-the-output-in-c
 
