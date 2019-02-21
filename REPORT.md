@@ -28,7 +28,7 @@ TODO: explicar se o comportamento da curva **UCP** foi o esperado, sempre justif
 TODO: explicar se o comportamento da curva **UCP-MEM** foi o esperado, sempre justificando sua resposta, referenciando o código fonte do programa e o gráfico do experimento realizado.
 
 ## Referências bibliográficas usadas na pesquisa e elaboração do projeto
-Todos as páginas foram essenciais para elaboração do projeto e seus autores estão referenciados nas páginas abaixo.
+Todos as páginas foram essenciais para elaboração do projeto e seu código fonte. Seus autores estão referenciados nas páginas abaixo, junto com seu conteúdo utilizado.
 
 * http://linguagemc.com.br/argumentos-em-linha-de-comando/
 * https://www.clubedohardware.com.br/forums/topic/355748-como-usar-a-fun%C3%A7%C3%A3o-clock/
