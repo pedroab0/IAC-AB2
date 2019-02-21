@@ -17,6 +17,19 @@
 	
 # Resultados
 
+## Referências usadas na pesquisa e elaboração do projeto
+* http://linguagemc.com.br/argumentos-em-linha-de-comando/
+* https://www.clubedohardware.com.br/forums/topic/355748-como-usar-a-fun%C3%A7%C3%A3o-clock/
+* https://www.vivaolinux.com.br/dica/Usando-funcoes-do-sistema-em-C-com-system
+* https://www.tutorialspoint.com/c_standard_library/c_function_strcmp.htm
+* https://www.tutorialspoint.com/c_standard_library/c_function_clock.htm
+* https://www.tutorialspoint.com/c_standard_library/c_function_sprintf.htm
+* http://man7.org/linux/man-pages/man3/usleep.3.html
+* http://www.cplusplus.com/forum/beginner/30792/
+* http://www.cplusplus.com/forum/general/85017/
+* https://www.programacaoprogressiva.net/2014/09/A-Chamada-de-Sistema-fork-Como-Criar-e-Gerenciar-Processos.html
+* https://stackoverflow.com/questions/10321435/is-char-envp-as-a-third-argument-to-main-portable
+
 * TODO: Plotar um gráfico com os resultados das medições das seguintes métricas utilizadas para avaliar o comportamento do **processo filho**:
 	*  **UCP**: consumo da UCP em porcentagem.
 	*  **UCP-MEM**: consumo da memória principal em Kilobytes.
