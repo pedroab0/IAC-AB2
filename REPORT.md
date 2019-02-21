@@ -45,4 +45,5 @@ Todos as páginas foram essenciais para elaboração do projeto e seu código fo
 * https://ubuntuforums.org/showthread.php?t=1430052
 * https://stackoverflow.com/questions/14393762/executing-bash-command-and-getting-the-output-in-c
 * http://man7.org/linux/man-pages/man2/fork.2.html#RETURN_VALUE
-
+* http://www.br-c.org/doku.php?id=fork
+* http://man7.org/linux/man-pages/man2/fork.2.html
